@@ -4,6 +4,8 @@ Convert JavaScript/CoffeeScript to TypeScript!
 
 When `toTypeScript()` is run on JavaScript or CoffeeScript files, a TypeScript version of the file is created with TypeScript [Quick Fixes](https://code.visualstudio.com/docs/languages/typescript#_quick-fixes) applied to the newly created source.
 
+[Visual Studio Code Marketplace.](https://marketplace.visualstudio.com/items?itemName=alecclarkedev.to-typescript)
+
 ## Usage
 Converting JavaScript
 ![JavaScript demo](images/demo-js.gif)
